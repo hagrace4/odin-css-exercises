@@ -1,0 +1,20 @@
+.odd {
+    background-color: #ffb6c1;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: #0044ff;
+    font-size: 36px;
+
+}
+
+#threeID {
+    font-size: 24px;
+}
+
+#fourID {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(9, 195, 9);
+}
